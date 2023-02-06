@@ -8,7 +8,7 @@ PT
 
  Tela de login 100% responsiva, Desevolvida para para em pratica os conhecimentos de HTML5 e CSS3 
  
- **[Click here to acess the website](https://david29dc.github.io/Barbaria-Alura/)**
+ **[Click here to acess the website]( https://david29dc.github.io/Login-screen/)**
 > ## Tecnologias
 > 
 > - **HTML** <br>
